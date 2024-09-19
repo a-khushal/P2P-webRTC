@@ -1,4 +1,4 @@
-### P2P implementation of webRTC that lets two browswers communicate
+### P2P implementation of webRTC that lets two browsers communicate
 <br/>
 This project uses WebSocket and RTCPerrConnection Objects of the browsers
 <br/>
